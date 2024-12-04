@@ -7,7 +7,7 @@ Welcome to the **Meta Spark AR Filter Collection** repository! This collection c
 
 ## Table of Contents
 
-- [About](#about)
+- [About](#about) 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
