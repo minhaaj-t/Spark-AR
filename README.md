@@ -6,7 +6,7 @@ Welcome to the **Meta Spark AR Filter Collection** repository! This collection c
 [Screenshot](https://github.com/minhaaj-t/Spark-AR/blob/main/Screenshot_2024-11-14-13-35-17-18.jpg?raw=true) || [Demos](https://www.instagram.com/min.h.aaj/)
 
 ## Table of Contents
-
+    
 - [About](#about) 
 - [Features](#features)
 - [Installation](#installation)
