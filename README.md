@@ -15,7 +15,7 @@ Welcome to the **Meta Spark AR Filter Collection** repository! This collection c
 - [Contributing](#contributing)
 - [License](#license)
 
-## About 
+## About
 
 This repository hosts a set of custom AR filters developed using **Meta Spark AR Studio**. Each filter is created to enhance social media interactions with fun and interactive augmented reality effects, such as face tracking, background effects, and interactive 3D animations. Ideal for beginners and AR enthusiasts looking to create their own effects or learn from existing ones.
 
